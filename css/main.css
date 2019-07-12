@@ -1,0 +1,24 @@
+body{
+    height: 100vh;
+    
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    text-transform: capitalize;
+
+}
+
+#count{
+    
+    font-size: 7rem;
+    font-family: 'Roboto Mono', monospace;
+
+    
+}
+.btn{
+    margin: 10px;
+}
+.btn:hover{
+    opacity: 0.5
+}
